@@ -1,0 +1,14 @@
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\bin\x64\Debug\StajProjeCalisma.exe.config
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\bin\x64\Debug\StajProjeCalisma.exe
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\bin\x64\Debug\StajProjeCalisma.pdb
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.csproj.AssemblyReference.cache
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.Form1.resources
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.Properties.Resources.resources
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.csproj.GenerateResource.cache
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.exe
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.pdb
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\bin\x64\Debug\StajProjeCalisma.exe.manifest
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\bin\x64\Debug\StajProjeCalisma.application
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.exe.manifest
+C:\Users\Mert_\source\repos\StajProjeCalisma\StajProjeCalisma\obj\x64\Debug\StajProjeCalisma.application
